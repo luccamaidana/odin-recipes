@@ -6,6 +6,8 @@
 
 ul{
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 #title {
@@ -19,4 +21,9 @@ ul{
 
 .argentina {
     font-size: 25px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
 }
