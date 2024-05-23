@@ -1,0 +1,22 @@
+* {
+    font-family: "Poetsen One", sans-serif;
+    background-color: azure;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+#title {
+    font-family: "Montserrat", sans-serif;
+    font-size: 100px;
+}
+
+.argentina-title {
+    font-size: 50px;
+}
+
+.argentina {
+    font-size: 25px;
+}
